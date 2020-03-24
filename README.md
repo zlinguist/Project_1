@@ -13,3 +13,6 @@ Average Income:
 Auxiliary Businesses
 ·     https://developers.google.com/maps/documentation
 ·     https://www.yelp.com/developers
+
+
+** Note - due to data availability, the research questions were changed to look for correlations between household incomes and educational outcomes.  New datasources were College scorecard data from U.S Department Of Education and US Census Data from 2018.
